@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielarequenahojas/tallerMoviles.git"
+    "url": "git+https://github.com/cdmitedaniel/movil.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabrielarequenahojas/tallerMoviles/issues"
+    "url": "https://github.com/cdmitedaniel/movil/issues"
   },
-  "homepage": "https://github.com/gabrielarequenahojas/tallerMoviles#readme",
+  "homepage": "https://github.com/cdmitedaniel/movil#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
